@@ -1,5 +1,5 @@
 # Telegram-Channel-Member-Scraper
-Scraping The Last 200 Accounts Of Telegram Channel Members
+Scraping The Accounts Of Telegram Channel Members To add those to Group or Channel
 ***
  Just open the file with Python3 and Use!
 ***
