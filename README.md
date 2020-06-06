@@ -22,6 +22,10 @@ Coded by: erfan4lx
 
 🆔Our Telegram Channel : https://t.me/M4nifest0
 
+To Add The Members To CHANNEL Show This Tutorial:  https://www.youtube.com/watch?v=65WIov9yS7k&t
+
+To Add The Members To GROUP Show This Tutorial :   https://www.youtube.com/watch?v=bp8DJUrzOGE&t
+
 ***
 Contact me to buy Real And Fake member for your Group And Channel
 And buy virtual number for Telegram and Hacking tools and more tools ...   =>
