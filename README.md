@@ -3,6 +3,7 @@ Scraping The Accounts Of Telegram Channel Members To add those to Group or Chann
 ***
  Just open the file with Python3 then go to my.telegram.org to read the API ID & HASH and more AND Use!
 ***
+Show in Youtube : https://youtu.be/vmaGO5eOoAU
 
 ➖➖➖➖➖➖
 Coded by: erfan4lx
