@@ -3,7 +3,7 @@ Scraping The Accounts Of Telegram Channel Members To add those to Group or Chann
 ***
  Get To Know The Best Tool To Scrape Telegram Channel Members
 ***
-Show full video on YouTube : https://youtu.be/vmaGO5eOoAU
+Show full video on YouTube : Video was deleted by YouTube, you can get the video by send me a message
 
 Show demo video on Instagram : https://www.instagram.com/p/CL7oU31A3TO
 
