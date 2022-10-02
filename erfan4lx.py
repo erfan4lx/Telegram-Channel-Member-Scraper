@@ -16,12 +16,13 @@ wt = (
 [[gr]]|_   _|((_)_  _(_/( (_) _((_))  ((_)| |((_)_  
   [[gr]]| |  / _` || ' \))| || '  \()/ _ \| |/ _` | 
   |_|  \__,_||_||_| |_||_|_|_| \___/|_|\__,_| 
-  Unidentified Cyber Security Team [[re]][erfan4lx][[ye]]
-  Vortex Cyber Security Team [[re]][erfan4lx][[ye]]
-  M4nifest0 Cyber Security Team [[re]][erfan4lx][[ye]]
+             [[re]][erfan4lx][[ye]]
+        [[re]][https://erfan4lx.com][[ye]]
+        [[re]][youtube.com/erfan4lx][[ye]]
   
   github.com/erfan4lx  
-  youtube.com/channel/UCHL7e6sD1eXIBIvjBYnXYEQ
+  instagram.com/_erfan4lx_
+  t.me/erfan4lx1
     """
 )
 
