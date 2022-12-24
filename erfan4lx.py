@@ -22,7 +22,7 @@ wt = (
   
   github.com/erfan4lx  
   instagram.com/_erfan4lx_
-  t.me/erfan4lx1
+  t.me/erfan4lx
     """
 )
 
